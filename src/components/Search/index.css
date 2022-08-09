@@ -1,0 +1,36 @@
+.search-route {
+  background-color: black;
+  min-height: 100vh;
+}
+.failure-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.loading-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.search-bg-container {
+  background-color: #131313;
+  min-height: 100vh;
+  margin-top: 7%;
+}
+.search-ul-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 0px;
+  padding-left: 55px;
+  text-align: center;
+}
+.search-items {
+  height: 100px;
+  width: 120px;
+  margin: 20px;
+}
